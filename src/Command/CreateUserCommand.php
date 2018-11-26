@@ -9,12 +9,14 @@ use Symfony\Component\Console\Input\InputArgument;
 
 class CreateUserCommand extends Command
 {
-    public function __construct(bool $requirePassword = false)
+    private $userManager;
+
+    public function __construct(UserManager $userManager)
     {
         // best practices recommend to call the parent constructor first and
         // then set your own properties. That wouldn't work in this case
         // because configure() needs the properties set in this constructor
-        $this->requirePassword = $requirePassword;
+        $this->userManager = $userManager;
 
         parent::__construct();
     }
@@ -54,5 +56,9 @@ class CreateUserCommand extends Command
         // outputs a message without adding a "\n" at the end of the line
         $output->write('You are about to ');
         $output->write('create a user.');
+
+        $this->userManager->create($input->getArgument('username'));
+
+        $output->writeln('User successfully generated!');
     }
 }
