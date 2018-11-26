@@ -9,9 +9,9 @@ class BlogController extends AbstractController {
     /**
      * Matches /blog exactly
      * 
-     * @Route("/blog", name="blog_list")
+     * @Route("/blog/{page<\d+>?1}", name="blog_list")
      */
-    public function list() {
+    public function list($page) {
 
     }
 
@@ -21,6 +21,6 @@ class BlogController extends AbstractController {
      * @Route("/blog/(slug)", name="blog_show")
      */
     public function show($slug) {
-        
+
     }
 }
