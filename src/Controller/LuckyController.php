@@ -21,6 +21,7 @@ class LuckyController extends AbstractController {
         ]);
     }
 
+    /*
     public function index() {
         // redirects to the "homepage" route
         return $this->redirectToRoute('homepage');
@@ -40,4 +41,5 @@ class LuckyController extends AbstractController {
         // redirects externally
         return $this->redirect('http://symfony.com/doc');
     }
+    */
 }

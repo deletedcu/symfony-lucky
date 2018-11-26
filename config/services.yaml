@@ -30,10 +30,10 @@ services:
     # add more service definitions when explicit configuration is needed
     # please note that last definitions always *replace* previous ones
 
-    App\Controller\LuckyController:
-        public: true
-        bind:
-            # for any $logger argument, pass this specific service
-            $logger: '@monolog.logger.doctrine'
-            # for any $projectDir argument, pass this parameter value
-            $projectDir: '%kernel.project_dir%'
+    # App\Controller\LuckyController:
+    #     public: true
+    #     bind:
+    #         # for any $logger argument, pass this specific service
+    #         $logger: '@monolog.logger.doctrine'
+    #         # for any $projectDir argument, pass this parameter value
+    #         $projectDir: '%kernel.project_dir%'
