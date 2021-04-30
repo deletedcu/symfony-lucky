@@ -17,6 +17,6 @@
     <img src="https://img.shields.io/badge/Symfony-000000?flat=plastic&logo=symfony&logoColor=white" height="32" alt="Symfony" />
     &nbsp;
     <!-- HTML5 -->
-    <img src="https://img.shields.io/badge/HTML5-234fe6?flat=plastic&logo=html5&logoColor=white" height="32" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-e34f26?flat=plastic&logo=html5&logoColor=white" height="32" alt="HTML5" />
     &nbsp;
 </p>
