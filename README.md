@@ -10,34 +10,13 @@
 
 ## 🌱 Technologies and Frameworks
 <p>
-    <!-- React -->
-    <img src="https://img.shields.io/badge/React-61dafb?flat=plastic&logo=react&logoColor=black" height="32" alt="React" />
+    <!-- PHP -->
+    <img src="https://img.shields.io/badge/PHP-777bb4?flat=plastic&logo=php&logoColor=white" height="32" alt="PHP" />
     &nbsp;
-    <!-- Redux -->
-    <img src="https://img.shields.io/badge/Redux-764abc?flat=plastic&logo=redux&logoColor=white" height="32" alt="Redux" />
+    <!-- Symfony -->
+    <img src="https://img.shields.io/badge/Symfony-000000?flat=plastic&logo=symfony&logoColor=white" height="32" alt="Symfony" />
     &nbsp;
-    <!-- Redux-Saga -->
-    <img src="https://img.shields.io/badge/Redux%20Saga-999999?flat=plastic&logo=redux-saga&logoColor=white" height="32" alt="Redux-Saga" />
-    &nbsp;
-    <!-- React Router -->
-    <img src="https://img.shields.io/badge/React%20Router-ca4245?flat=plastic&logo=react%20router&logoColor=white" height="32" alt="React Router" />
-    &nbsp;
-    <!-- Bluetooth -->
-    <img src="https://img.shields.io/badge/Bluetooth-0082fc?flat=plastic&logo=bluetooth&logoColor=white" height="32" alt="Bluetooth" />
-    &nbsp;
-    <!-- Chart.js -->
-    <img src="https://img.shields.io/badge/Chart.js-ff6384?flat=plastic&logo=chart.js&logoColor=white" height="32" alt="Chart.js" />
-    &nbsp;
-    <!-- Babel -->
-    <img src="https://img.shields.io/badge/Babel-f9dc3e?flat=plastic&logo=Babel&logoColor=black" height="32" alt="Babel" />
-    &nbsp;
-    <!-- Jest -->
-    <img src="https://img.shields.io/badge/Jest-c21325?flat=plastic&logo=jest&logoColor=white" height="32" alt="Jest" />
-    &nbsp;
-    <!-- Xcode -->
-    <img src="https://img.shields.io/badge/Xcode-147efb?flat=plastic&logo=xcode&logoColor=white" height="32" alt="Xcode" />
-    &nbsp;
-    <!-- Android Studio -->
-    <img src="https://img.shields.io/badge/Android%20Studio-3ddc84?flat=plastic&logo=android%20studio&logoColor=white" height="32" alt="Android Studio" />
+    <!-- HTML5 -->
+    <img src="https://img.shields.io/badge/HTML5-234fe6?flat=plastic&logo=html5&logoColor=white" height="32" alt="HTML5" />
     &nbsp;
 </p>
